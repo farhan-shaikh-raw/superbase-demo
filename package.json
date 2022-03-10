@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/farhan-shaikh-raw/superbase-demo#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^1.31.1",
     "body-parser": "^1.19.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
